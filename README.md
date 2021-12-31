@@ -19,9 +19,9 @@
 				  $('.counter').addClass('hide')
 				  $('.preloader').addClass('active')
 			  }
-        // 1-100, 1 superfast countdown 50 mild countdown and so on, the higher number the slower.
 		  },30)
 	  }
 	  counter()
 </script>
 ```
+## 1-100, 1 superfast countdown 50 mild countdown and so on, the higher number the slower.
