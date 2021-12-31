@@ -24,4 +24,4 @@
 	  counter()
 </script>
 ```
-## 1-100, 1 superfast countdown 50 mild countdown and so on, the higher number the slower.
+# 1-100, 1 superfast countdown 50 mild countdown and so on, the higher number the slower.
